@@ -1,0 +1,7 @@
+C:\Users\sheti\source\repos\rvip\rvip\bin\Debug\rvip.exe.config
+C:\Users\sheti\source\repos\rvip\rvip\bin\Debug\rvip.exe
+C:\Users\sheti\source\repos\rvip\rvip\bin\Debug\rvip.pdb
+C:\Users\sheti\source\repos\rvip\rvip\obj\Debug\rvip.csproj.AssemblyReference.cache
+C:\Users\sheti\source\repos\rvip\rvip\obj\Debug\rvip.csproj.CoreCompileInputs.cache
+C:\Users\sheti\source\repos\rvip\rvip\obj\Debug\rvip.exe
+C:\Users\sheti\source\repos\rvip\rvip\obj\Debug\rvip.pdb
